@@ -1,0 +1,18 @@
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+Invalid command-line argument: --OutputFolder=scratch/examples/Test/run19
+ [Program Options] [General Arguments]
+
+Program Options:
+    --traceFile:  NS2 movement trace file [/home/onur/ns-allinone-3.41/ns-3.41/scratch/ns2mobility.tcl]
+
+General Arguments:
+    --PrintGlobals:              Print the list of globals.
+    --PrintGroups:               Print the list of groups.
+    --PrintGroup=[group]:        Print all TypeIds of group.
+    --PrintTypeIds:              Print all TypeIds.
+    --PrintAttributes=[typeid]:  Print all attributes of typeid.
+    --PrintVersion:              Print the ns-3 version.
+    --PrintHelp:                 Print this help message.
+
+Command 'build/scratch/ns3.41-examples-default --OutputFolder=scratch/examples/Test/run19' returned non-zero exit status 1.
